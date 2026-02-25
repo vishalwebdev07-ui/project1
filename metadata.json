@@ -1,0 +1,5 @@
+{
+  "name": "UniAlloc - Resource Management",
+  "description": "A specialized dashboard for university resource allocation, tracking classrooms, labs, and faculty assignments.",
+  "requestFramePermissions": []
+}
